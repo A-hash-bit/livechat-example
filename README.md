@@ -4,3 +4,4 @@ This repository contains a [slack](https://slack.com) clone made with [PostgreSQ
 https://www.youtube.com/watch?v=j5Zsa_eOXeY 
 Using LayerCI CI tool to automate tests integrated with github so to get a response before merging code in parent branch.
 CI pipeline will run after every PR raised.
+Using cypress testing tool for testing
